@@ -1,0 +1,199 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.homesectionblock { 
+display: inline-block;
+width: 950px;
+height: 100px;
+margin-top: 0px;
+padding-top: 10px;
+}
+
+h1 {
+	
+	font-family: 'Montserrat', sans-serif;
+	padding-bottom: 20px
+}
+
+P { font-family: 'Roboto', sans-serif;
+	
+}
+
+.homesection {
+	height: 600px; 
+	padding-top: 0px;
+	background-image: url(../img/alexa.jpg);
+	background-position: 50% 50%; 
+	background-size: cover;
+	text-align: center;
+}
+
+.aboutsection {
+	background color: white
+	width: auto;
+	height: 210px;
+	padding-top: 80px
+}
+.Logo {
+	padding-top: 10px;
+	float: left; 
+	padding-left: 20px;
+}
+.navbarblock {
+	float: right;
+}
+.nav {
+width: 600px;
+padding-top: 30px
+
+}
+.navlink {
+	float: right;
+	color:#FFFFFF;
+	padding-right: 30px;
+	font-family: 'Montserrat400i', sans-serif;
+	
+	
+}
+
+.container { width: 50%
+	
+}
+
+.SplashHeader { width: 80%; font-family: 'Roboto', sans-serif;
+
+}
+
+.H1 { padding-bottom: 20px; 
+
+}
+.gridcontainer { width: 900px; display: inline-block; text-align: center
+	
+}
+
+.Howitworkssection { background-color:lightgray; padding-top: 50px; padding-bottom: 50px; text-align: center; background: linear-gradient(#0e3370,#195fb8);
+	
+}
+
+.FeatureBlock { background-color: whitesmoke; height: 200px; padding: 60px; display: inline-block; width: 150px;
+	
+}
+
+.commandssection { padding-top: 6%; padding-bottom: 6%; background-color: white
+	
+}
+
+.Callouts { background-color:transparent;
+
+}
+
+.CommandImage { height: 500px
+
+}
+
+.commandbubbles { padding-top: 90px
+	
+}
+
+.alexaspeaker { padding-left: 100px
+	
+}
+
+.row { 
+	
+}
+
+.howitworksblock { background-color: white; padding-top: 50px; padding-bottom: 50px
+	
+}
+
+.howitworksblocktext { margin-top: 20px
+	
+}
+
+.commandblock { width: 80%
+	
+}
+
+.deviceimg { height: 600px; background-image: url(../img/AmazonEcho.jpg); background-position: center; background-size:cover; background-repeat: no-repeat; width: 100px
+	
+}
+.speechbubbleimg { float: left
+	
+}
+
+.speechbubbleimg2 { float: right
+	
+}
+
+.testimonials { background: linear-gradient(#0e3370,#195fb8); padding-top: 5%; padding-bottom: 5%
+	
+}
+
+.testimonialpicture { height: 200px; background: #000000;
+	
+}
+
+.testimonialblock { height: 200px; background-color:#FFFFFF; margin-bottom: 30px
+	
+}
+
+.testimonialinfo { padding: 20px; color:#FFFFFF
+
+	
+}
+
+.productsection { padding-top: 4%; padding-bottom: 4%
+
+}
+
+.ProductImage { height: 150px; width: 
+	
+}
+
+.paragraph { color:#FFFFFF; font-family: 'roboto', sans-serif; font-size: 20px
+
+}
+
+.H3 { color:#FFFFFF; padding-bottom: 10px; font-family: 'Montserrat', sans-serif;
+	
+}
+
+
+
+.h1white { margin-bottom: 10px; color: azure
+	
+}
+
+.testimoniapicture2 { background-image:url(../img/christiana-rivers-249934.jpg); background-size: cover; background-position: center; border: #FFFFFF solid
+	
+}
+
+.testimoniapicture1 { background-image:url(../img/andrew-robles-300868.jpg); background-size: cover; background-position: center; border: #FFFFFF solid
+	
+}
+.productrow2 { margin-top: 60px
+	
+}
+
+.Pricingtext {font-family: 'roboto', sans-serif; padding-top: 10px
+	
+}
+
+.H2 { font-family: 'Montserrat400i', sans-serif; padding-top: 40px
+	
+}
+
+.footer { background-color: black; padding-top: 2%; padding-bottom: 2%
+	
+}
+.footercontactinfo { color: azure
+}
+
+.footerlogo { margin-top: 15px
+	
+}
+
+.alexdevice { height: 500px; background-image: url(../img/amazon_b00x4whp5e_echo_1187819.jpg); background-size: contain; background-repeat: no-repeat; background-position: center
+	
+}
